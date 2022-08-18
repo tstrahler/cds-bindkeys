@@ -21,4 +21,4 @@ pdflatex cds-bindkeys.tex
 
 Afterwards, a PDF is created. Please see below the first page of this PDF
 
-![cheatsheet](cds-bindkeys-0.png)
+![cheatsheet](cds-bindkeys.png)
